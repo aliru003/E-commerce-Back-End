@@ -16,9 +16,9 @@
   "author": "Priya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/priyaravi23/orm-e-commerce/issues"
+    "url": "https://github.com/aliru003/E-commerce-Back-End/issues"
   },
-  "homepage": "https://github.com/priyaravi23/orm-e-commerce#readme",
+  "homepage": "https://github.com/aliru003/E-commerce-Back-End/blob/master/README",
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
